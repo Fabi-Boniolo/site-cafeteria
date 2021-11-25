@@ -4,3 +4,12 @@ html {
     background-color: #ece2e2;
 }
 
+main {
+    max-width: 955px;
+    min-width: 300px;
+    margin: auto;
+    border:1px solid #ddd; 
+    background-color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
