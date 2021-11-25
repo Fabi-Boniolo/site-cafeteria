@@ -90,3 +90,31 @@ footer {
     margin-top:30px ;
     margin: auto;
 }
+
+/* H's */
+
+h1, h2, h4 { 
+    font-family:Georgia, "Times New Roman", Times, serif; 
+    color:#c5593a; 
+    font-style:italic; 
+    letter-spacing:-0.05em ;
+}
+
+h1 { 
+    font-size:2.6em; 
+    margin:0 5px; 
+}
+
+h4 { 
+    font-size:1.6em;
+    margin:0 5px; 
+}
+
+/* Paragrafos e Li's */
+
+p, li { 
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; 
+    font-size:0.9em; 
+    color:#555; 
+    line-height:1.8 ;
+}
