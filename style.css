@@ -46,3 +46,47 @@ nav ul li a {
 nav ul li a:hover { 
     background-color: #9B948E ;
 }
+
+/* article Imagens */
+
+article { 
+    float:left; 
+    margin:30px 20px;
+    width:600px ;
+}
+
+article header h1 {
+    margin:0;
+}
+
+article p img {
+    border: 1px solid #c55939;
+}
+
+/* Section Imagem */
+
+section img {
+    border: 1px solid #c55939;
+    background-size: cover;
+}
+
+/* Footer */
+
+footer { 
+    clear:both; 
+    width:700px; 
+    margin:0 auto; 
+    font-size:0.75em; 
+    text-align:center; 
+    background-color:#dfd7d7; 
+    padding:5px ;
+}
+
+/* Imagem Mapa */
+
+#map { 
+    float:right; 
+    width:300px; 
+    margin-top:30px ;
+    margin: auto;
+}
