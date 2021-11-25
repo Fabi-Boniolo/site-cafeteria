@@ -118,3 +118,32 @@ p, li {
     color:#555; 
     line-height:1.8 ;
 }
+
+/* Cardápio */
+
+.top {
+    margin: auto;
+    text-align:center; 
+    padding: 15px;
+    background-color:#ece2e2;
+}
+
+/* História Sobre Fale*/
+
+.hist-sobre-fale {
+    text-align: justify;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; 
+    font-size:0.9em;
+    margin: auto;
+    margin:50px 100px;
+    padding-left: 50px;
+}
+
+.top {
+    background-color: #dfd7d7;
+}
+
+.fonte {
+    text-align: right;
+}
+
