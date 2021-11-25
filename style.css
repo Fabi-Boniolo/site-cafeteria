@@ -202,3 +202,59 @@ p, li {
     color: #dfd7d7;
 }
 
+/* Responsividade */
+
+@media only screen and (max-width: 955px) {
+
+    html {
+        max-width: 80%;
+        margin: auto;    
+    } 
+
+    hearde img {
+        width: 100%;
+    }
+
+    article p img{
+        width: 50%;
+    }
+
+    nav ul li a {
+        max-width: 50% ;
+    }
+
+    main {
+        max-width: 90%;
+        margin: auto;
+    }
+
+    footer {
+        max-width: 60%;
+    }
+
+    section img {
+        max-width: 50%;
+    }
+
+    #map {
+        max-width: - 20%;
+    }
+
+    .hist-sobre-fale {
+        max-width: 50%;
+    }
+
+    .form input  {
+        min-width: 150%;
+        float:right;
+    }
+
+    .form textarea {
+        min-width: 150%;
+        float:right;
+    }
+
+    .form button {
+        min-width: 50%;
+    }
+}
