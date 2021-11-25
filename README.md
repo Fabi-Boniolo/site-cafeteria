@@ -1,11 +1,9 @@
 # The Coffee's Flower
 ### Site de uma Cafeteria desenvolvida na aula de HTML da Gama Academy.
 
-
-Projeto e-commerce inspirado em uma cafeteria usando o básico do HTML e CSS puro. 
+Projeto e-commerce inspirado em uma cafeteria usando o básico do HTML e CSS puro.
 Um projeto simples desenvolvido com o que foi aprendido em aula.
 <br>
-
 
 <img src="./imagens/Top-principalr.png">
 
