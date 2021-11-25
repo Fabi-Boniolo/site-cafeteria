@@ -12,4 +12,4 @@ Um projeto simples desenvolvido com o que foi aprendido em aula.
 Fabi Boniolo - meu [@linkedin](https://www.linkedin.com/in/dev-fabiana-boniolo/)
 E-mail: fabianaboniolo@hotmail.com
 Distribuido sobre a lincença. Veja `LICENÇA` para mais informações.
-https://github.com/Fabi-Boniolo/site-cafeteria
+
